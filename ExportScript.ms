@@ -1,15 +1,3 @@
-
-
-------------------------------------------------------------------------------------------------------------------------------
--- Custom batch exporter v2.1 - 06/07/2022
--- Dev by Benjamin Boscher aka n00byzor
--- Free for all use and / or modifications.
--- If you modify the script please mention my name or my nickname, or both ;)
--- Cheers ;)
--- http://www.scriptspot.com/3ds-max/scripts/batch-exporter-0
-------------------------------------------------------------------------------------------------------------------------------
-
-
 try(destroyDialog TKT)catch()
 rollout TKT "Ben's Custom Batch Exporter ;)" width:248 height:540
 (
